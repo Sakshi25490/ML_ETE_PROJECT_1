@@ -17,5 +17,10 @@ git commit -m "This is my first commit"
 
 '''
 git pull
+'''
+
+
+'''
+bash your_file_name.sh
 
 '''
